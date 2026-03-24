@@ -94,7 +94,8 @@ s.close()
 ```
 ## output
 server side
-<img width="1000" height="245" alt="image" src="https://github.com/user-attachments/assets/3b8eb270-ffad-4282-8286-f700f6956263" />
+<img width="1000" height="245" alt="image" src="https://github.com/user-attachments/assets/3b8eb270-ffad-4282-8286-f700f6956263" /> 
+client side
 <img width="999" height="237" alt="image" src="https://github.com/user-attachments/assets/156a8d09-a405-4b5e-ba44-49119caa7e2b" />
 
 
